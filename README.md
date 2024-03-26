@@ -17,10 +17,9 @@ This repository contains projects related to the course "Introduction to AI", fo
   python pacman.py -l mediumMaze -p SearchAgent
   python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
   python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+  
 
-  ## Project 2: Logic and Classical Planning
-
-### Project 2: Logic
+### Project 2: Logic and Classical Planning
 
 In the "Logic and Classical Planning" project, students delve into the theoretical underpinnings and practical applications of logic in Artificial Intelligence. The focus is on utilizing simple Python functions to generate logical sentences that describe the physics governing the PacMan world, known as "pacphysics." These logical formulations then serve as the basis for solving various planning and inference tasks using SAT solvers like PycoSAT.
 
