@@ -20,7 +20,7 @@ This repository contains projects related to the course "Introduction to AI", fo
 
   ## Project 2: Logic and Classical Planning
 
-### Project 1: Logic
+### Project 2: Logic
 
 In the "Logic and Classical Planning" project, students delve into the theoretical underpinnings and practical applications of logic in Artificial Intelligence. The focus is on utilizing simple Python functions to generate logical sentences that describe the physics governing the PacMan world, known as "pacphysics." These logical formulations then serve as the basis for solving various planning and inference tasks using SAT solvers like PycoSAT.
 
